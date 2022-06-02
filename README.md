@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devansh-m12
 - 👀 I’m interested in competitive programming.
-- 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me instagram : https://www.instagram.com/d3v1sh/
 
 <!---
