@@ -13,9 +13,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devansh-m12&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-m12&theme=radical&hide_border=false" height="180em"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-m12&theme=radical&hide_border=false&layout=compact&langs_count=10" height="150em"/>
 </div>
 
