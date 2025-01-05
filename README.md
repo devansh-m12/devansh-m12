@@ -4,7 +4,7 @@
 
 ## 🚀 **About Me**
 🌐 I'm a passionate **Web Developer** from **Earth** 🌏, constantly exploring and mastering new technologies.  
-✨ I thrive on building innovative web solutions and delving into cutting-edge technologies. Let's **create, innovate, and inspire** together!
+✨ I survive on building innovative web solutions and delving into cutting-edge technologies. Let's **create, innovate, and inspire** together!
 
 ---
 
