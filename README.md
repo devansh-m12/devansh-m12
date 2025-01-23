@@ -1,17 +1,19 @@
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: flex-start; gap: 2rem; margin: 20px 0">
-    <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=7E3FEF&vCenter=true&width=500&lines=IoT+Visionary;Smart+Systems+Architect;Edge+Computing+Maestro" alt="Dynamic Header" style="max-height: 120px"> 
-    </div>
-    <div>
-      <img src="https://github.com/user-attachments/assets/239349f1-9a57-45e9-a199-1f6f2cb06c4b" style="max-height: 12px; width: auto; border-radius: 10px">
-    </div>
-  </div>
+  
+  <!-- Animated Typing Text -->
+  [![Typing Header](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=30&duration=3000&pause=1000&color=7E3FEF&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;IoT+Enthusiast)](https://github.com/devansh-m12)
+    <!-- Profile GIF -->
 </div>
+
+<div align="center">
+  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1uajEyd3hnM2l6MG5teWxjM3F1NDg0azB1cjRlamFnZmphNXc2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7T2Hml82zYzdZAqr7Z/giphy.gif?height=150&width=150" >
+</div>
+
 
 ---
 
-## 🌐 **Connected Universe**
+## 🌌 **Digital DNA**
 <div align="center" style="margin: 1rem 0">
   <div style="display: flex; gap: 1rem; justify-content: center; max-height: 140px">
     <img src="https://github-readme-stats.vercel.app/api?username=devansh-m12&theme=merko&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" style="max-height: 140px">
@@ -20,35 +22,39 @@
   </div>
 </div>
 
+  <!-- Activity Graph -->
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devansh-m12&theme=react-dark&area=true&hide_border=true&custom_title=My+Contribution+Map)](https://github.com/devansh-m12)
+
+
 ---
 
-## 🔧 **IoT Toolbox**
-### **Core Infrastructure**
+## 🛠 **Tech Arsenal**
+### **Core Stack**
 <div align="center" style="margin: 1rem 0">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,azure,aws,grafana,python,cpp&theme=dark&perline=7" style="max-height: 40px">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,express,mongodb,aws,docker&theme=dark&perline=7" style="max-height: 40px">
 </div>
 
-### **Full Stack Mastery**
-| **Domain**          | **Technologies**                                                                                                                                                                                                 |
-|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Edge Computing*    | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) |
-| *Cloud IoT*         | ![AWS IoT](https://img.shields.io/badge/-AWS%20IoT-FF9900?logo=amazon-aws&logoColor=white) ![Azure IoT](https://img.shields.io/badge/-Azure%20IoT-0089D6?logo=microsoft-azure&logoColor=white) ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=mosquitto&logoColor=white) |
-| *Data Pipeline*     | ![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?logo=nodered&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) |
-| *Hardware*          | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white) |
+### **Full Spectrum**
+| **Category**       | **Technologies**                                                                                                 |
+|--------------------|-----------------------------------------------------------------------------------------------------------------|
+| *Programming*      | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| *Web*              | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white) |
+| *Databases*        | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
+| *Cloud/DevOps*     | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=FF9900) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes&logoColor=white) |
 
 ---
 
-## 🏅 **IoT Accolades**
+## 🏆 **Achievements**
 <div align="center" style="margin: 1rem 0">
   <img src="https://github-profile-trophy.vercel.app/?username=devansh-m12&theme=onedark&no-frame=true&margin-w=15&row=2&column=4" style="max-height: 160px">
 </div>
 
 ---
 
-## 📡 **Connect Grid**
+## 🌐 **Connect Matrix**
 <div align="center" style="margin: 1rem 0">
   <a href="https://linkedin.com/in/devansh-m12" style="margin: 0 8px">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=25" style="max-height: 28px">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" style="max-height: 28px">
   </a>
   <a href="https://x.com/d3v1sX" style="margin: 0 8px">
     <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" style="max-height: 28px">
@@ -61,7 +67,9 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3FEF&height=40&section=footer&animation=twinkling">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=devansh-m12&color=7E3FEF&style=flat" alt="IoT Footprint" style="max-height: 20px">
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/devansh-m12/count.svg" alt="visitor badge" />
+  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3FEF&height=80&section=footer&animation=twinkling">
 </div>
