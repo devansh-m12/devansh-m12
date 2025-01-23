@@ -1,84 +1,67 @@
-# 👋 Hello, I'm **Devansh** — *Web Developer & Tech Enthusiast*
-
----
-
-## 🚀 **About Me**
-🌐 I'm a passionate **Web Developer** from **Earth** 🌏, constantly exploring and mastering new technologies.  
-✨ I survive on building innovative web solutions and delving into cutting-edge technologies. Let's **create, innovate, and inspire** together!
-
----
-
-## 📊 **GitHub Stats**
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devansh-m12&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-m12&theme=radical&hide_border=false" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-m12&theme=radical&hide_border=false&layout=compact&langs_count=10" height="150em"/>
+  <div style="display: flex; align-items: center; justify-content: flex-start; gap: 2rem; margin: 20px 0">
+    <div>
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=7E3FEF&vCenter=true&width=500&lines=IoT+Visionary;Smart+Systems+Architect;Edge+Computing+Maestro" alt="Dynamic Header" style="max-height: 120px"> 
+    </div>
+    <div>
+      <img src="https://github.com/user-attachments/assets/239349f1-9a57-45e9-a199-1f6f2cb06c4b" style="max-height: 12px; width: auto; border-radius: 10px">
+    </div>
+  </div>
 </div>
 
 ---
 
-## 🛠️ **Tech Stack**
-
-### 💻 **Programming Languages**
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🌐 **Web Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### 🗃️ **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### ☁️ **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-## 🏆 **GitHub Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devansh-m12&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+## 🌐 **Connected Universe**
+<div align="center" style="margin: 1rem 0">
+  <div style="display: flex; gap: 1rem; justify-content: center; max-height: 140px">
+    <img src="https://github-readme-stats.vercel.app/api?username=devansh-m12&theme=merko&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" style="max-height: 140px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-m12&theme=merko&hide_border=true&background=00000000" style="max-height: 140px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-m12&theme=merko&hide_border=true&layout=compact&bg_color=00000000" style="max-height: 140px">
+  </div>
 </div>
 
 ---
 
-## 📈 **Activity Graph**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devansh-m12&theme=radical" alt="Devansh's GitHub Activity Graph"/>
+## 🔧 **IoT Toolbox**
+### **Core Infrastructure**
+<div align="center" style="margin: 1rem 0">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,azure,aws,grafana,python,cpp&theme=dark&perline=7" style="max-height: 40px">
+</div>
+
+### **Full Stack Mastery**
+| **Domain**          | **Technologies**                                                                                                                                                                                                 |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Edge Computing*    | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) |
+| *Cloud IoT*         | ![AWS IoT](https://img.shields.io/badge/-AWS%20IoT-FF9900?logo=amazon-aws&logoColor=white) ![Azure IoT](https://img.shields.io/badge/-Azure%20IoT-0089D6?logo=microsoft-azure&logoColor=white) ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=mosquitto&logoColor=white) |
+| *Data Pipeline*     | ![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?logo=nodered&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) |
+| *Hardware*          | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white) |
+
+---
+
+## 🏅 **IoT Accolades**
+<div align="center" style="margin: 1rem 0">
+  <img src="https://github-profile-trophy.vercel.app/?username=devansh-m12&theme=onedark&no-frame=true&margin-w=15&row=2&column=4" style="max-height: 160px">
 </div>
 
 ---
 
-## 📫 **Connect with Me**
-<div align="center">
-  <a href="https://linkedin.com/in/devansh-m12">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+## 📡 **Connect Grid**
+<div align="center" style="margin: 1rem 0">
+  <a href="https://linkedin.com/in/devansh-m12" style="margin: 0 8px">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=25" style="max-height: 28px">
   </a>
-  <a href="https://x.com/d3v1sX">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=black" />
+  <a href="https://x.com/d3v1sX" style="margin: 0 8px">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" style="max-height: 28px">
   </a>
-  <a href="https://www.d3v1sh.tech">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://www.d3v1sh.tech" style="margin: 0 8px">
+    <img src="https://img.shields.io/badge/Portfolio-7E3FEF?logo=About.me&logoColor=white&style=for-the-badge" style="max-height: 28px">
   </a>
 </div>
 
 ---
 
-## 👀 **Visitor Count**
 <div align="center">
-  <img src="https://profile-counter.glitch.me/devansh-m12/count.svg" alt="visitor badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3FEF&height=40&section=footer&animation=twinkling">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=devansh-m12&color=7E3FEF&style=flat" alt="IoT Footprint" style="max-height: 20px">
 </div>
