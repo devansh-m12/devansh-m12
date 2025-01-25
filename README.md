@@ -1,13 +1,13 @@
 <div align="center">
   
   <!-- Animated Typing Text -->
-  [![Typing Header](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=30&duration=3000&pause=1000&color=7E3FEF&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;IoT+Enthusiast)](https://github.com/devansh-m12)
+  [![Typing Header](https://readme-typing-svg.demolab.com?font=Sofia&color=66D3FA&size=40&center=true&vCenter=true&width=1000&height=70&lines=Full+Stack+Developer;Open+Source+Contributor;IoT+Enthusiast)](https://github.com/devansh-m12)
     <!-- Profile GIF -->
 </div>
 
 <div align="center">
   
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1uajEyd3hnM2l6MG5teWxjM3F1NDg0azB1cjRlamFnZmphNXc2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7T2Hml82zYzdZAqr7Z/giphy.gif?height=150&width=150" >
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1uajEyd3hnM2l6MG5teWxjM3F1NDg0azB1cjRlamFnZmphNXc2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7T2Hml82zYzdZAqr7Z/giphy.gif" >
 </div>
 
 
