@@ -14,13 +14,7 @@
 ---
 
 ## 🌌 **Digital DNA**
-<div align="center" style="margin: 1rem 0">
-  <div style="display: flex; gap: 1rem; justify-content: center; max-height: 140px">
-    <img src="https://github-readme-stats.vercel.app/api?username=devansh-m12&theme=merko&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" style="max-height: 140px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-m12&theme=merko&hide_border=true&background=00000000" style="max-height: 140px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-m12&theme=merko&hide_border=true&layout=compact&bg_color=00000000" style="max-height: 140px">
-  </div>
-</div>
+  ![GitHub Stats SVG](https://rproxy.ttoo.lol/githubstats/github-status?username=devansh-m12)
 
   <!-- Activity Graph -->
   [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devansh-m12&theme=react-dark&area=true&hide_border=true&custom_title=My+Contribution+Map)](https://github.com/devansh-m12)
