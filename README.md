@@ -17,7 +17,7 @@
   ![GitHub Stats SVG](https://rproxy.ttoo.lol/githubstats/github-status?username=devansh-m12)
 
   <!-- Activity Graph -->
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devansh-m12&theme=react-dark&area=true&hide_border=true&custom_title=My+Contribution+Map)](https://github.com/devansh-m12)
+
 
 
 ---
